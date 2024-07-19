@@ -1,15 +1,10 @@
-# Project_3_Data_Visualization
 
 # The Most Dangerous U.S. National Parks for Adventure Seekers: An Assessment of Number, Cause, and Overall Trends of Deaths in the Parks
-Team Members:
--Project Group 2:
-Barrett Fudge
-Larry Jiles Jr.
-Carlie Rhoads
-Gregory Smith
+
+By: Barrett Fudge, Larry Jiles Jr., Carlie Rhoads, Gregory Smith
 
 
-Project Description/Outline:
+Overview:
 Our project focuses on analyzing data related to deaths in U.S. National Parks
 with the goal of identifying the most dangerous parks for adventure seekers.
 We will assess the number, cause, and trend of deaths in these parks from 2007 to 2023.
